@@ -1,0 +1,15 @@
+body{
+    background: #1DA1F2;
+}
+.app-list{
+    height: 350px;
+    overflow-y: auto;
+
+}
+.app-list::-webkit-scrollbar{
+    width: 10px;
+
+}
+.app-list::-webkit-scrollbar-thumb{
+    background-color: #1DA1F2;
+}
